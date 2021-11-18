@@ -1,0 +1,99 @@
+/*STYLE CSS INDEX */
+body{
+    background-image: url(teste2.jfif);
+    background-size: 100%;
+    margin: 1cm;
+}
+*{
+    font-family: Verdana;
+}
+/*Voce esta em: Home */
+header{
+    background-color: #5cc4ec;
+    padding: 2px;
+    border-radius: 35px;
+    margin-right: 85%;
+}
+/*style menu  */
+nav{
+    background-color:#5cc4ec;
+    padding: 10px;
+    border-radius: 2px;
+    text-align-last: center;
+    word-spacing: 10mm;
+    font-size: 5mm;
+
+}
+/*style menu  */
+nav>a{ color: #111010;
+    text-decoration:none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    word-spacing: 5cm;
+  
+}
+.nav-link:hover{
+    color: #227ab9
+}
+
+/*style contato */
+
+*{
+    margin:20;
+    padding:0;
+
+}
+
+#titulo{
+    font-family: sans-serif;
+    color: #0d0d41;
+    margin-top: 0%;
+}
+
+fieldset{
+    border:0;
+
+}
+body{
+    font-family: sans-serif;
+    font-size: 1em;
+    color:rgb(0, 0, 0);
+}
+input, select, textarea, button{
+    border-radius: 5px;
+}
+.campo{
+    margin-bottom: 1em;
+
+}
+label{
+    color: cornsilk;
+}
+
+.campo label{
+    margin-bottom: 0,1em;
+    color: rgb(255, 249, 249);
+    display: block;
+}
+
+.botao{
+    background-color: #5cc4ec;
+    text-decoration: black;
+    font-size: 100%;
+}
+.rodape{
+    position: relative;
+    padding: 30px;
+    background-image: url(bolhas.jpg);
+    background-size: 100%;
+    font-size: small;
+    padding: 30px;
+    height: 110px;
+}
+
+.rodape-secao{
+    display: inline-table;
+    width: 32%;
+    min-width: 200px;
+    color: rgb(0, 0, 0);
+    margin-top: 0%;
+}
