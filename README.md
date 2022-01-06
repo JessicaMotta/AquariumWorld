@@ -1,4 +1,4 @@
-Acesse o link abaixo para melhopr visualização: 
+Acesse o link abaixo para melhor visualização: 
 
 https://jessicamotta.github.io/AquariumWorld/
 
